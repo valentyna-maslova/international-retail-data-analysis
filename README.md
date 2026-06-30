@@ -30,10 +30,10 @@ Eliminating discounts above 30% would have increased profit by an estimated $179
 
 Project Structure
 
-Project_Python.py # EDA, data cleaning, currency enrichment, hypothesis testing
-Project_SQL.sql   # Database schema, 25+ analytical queries, A/B tests
-Project_PowerBI.pbix # Interactive 4-page dashboard
-Пояснювальна_записка_до_фінального_проєкту.pdf  # Full project documentation (Ukrainian, 75 pages)
+Project_Python.py (EDA, data cleaning, currency enrichment, hypothesis testing);
+Project_SQL.sql (Database schema, 25+ analytical queries, A/B tests);
+Project_PowerBI.pbix (Interactive 4-page dashboard);
+Пояснювальна_записка_до_фінального_проєкту.pdf (Full project documentation (Ukrainian, 75 pages));
 README.md
 
 
