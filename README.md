@@ -30,14 +30,14 @@ Eliminating discounts above 30% would have increased profit by an estimated $179
 
 Project Structure
 
-├── Project_Python.py                              # EDA, data cleaning, currency enrichment, hypothesis testing
-├── Project_SQL.sql                                # Database schema, 25+ analytical queries, A/B tests
-├── Project_PowerBI.pbix                           # Interactive 4-page dashboard
-├── Пояснювальна_записка_до_фінального_проєкту.pdf  # Full project documentation (Ukrainian, 75 pages)
-└── README.md
+Project_Python.py # EDA, data cleaning, currency enrichment, hypothesis testing
+Project_SQL.sql   # Database schema, 25+ analytical queries, A/B tests
+Project_PowerBI.pbix # Interactive 4-page dashboard
+Пояснювальна_записка_до_фінального_проєкту.pdf  # Full project documentation (Ukrainian, 75 pages)
+README.md
+
 
 Methodology
-
 
 Data preparation (Python) — EDA, data quality checks, chronology validation, enrichment with historical USD exchange rates via API
 Database design (PostgreSQL) — Star Schema with 1 fact table and 4 dimension tables, normalized to 3NF, constraints, generated columns, 4 analytical views
